@@ -185,6 +185,10 @@ a:hover {
     padding: 10px;
 }
 
+hr {
+    border-top: 1px dashed;
+}
+
 .box1 {
     background: teal;
 }
